@@ -1,0 +1,24 @@
+Algoritmo Rotina Matinal do Alex
+
+Início
+
+1. Escute o despertador.
+2. Se o despertador tocar, então:
+    2.1. Desligue o despertador.
+    2.2. Levante-se da cama.
+3. Vá até a cozinha.
+4. Prepare a cafeteira:
+    4.1. Adicione água.
+    4.2. Adicione café.
+    4.3. Ligue a cafeteira.
+5. Enquanto o café está sendo feito:
+    5.1. Vá ao banheiro.
+    5.2. Tome um banho.
+6. Volte para a cozinha.
+7. Sirva-se de uma xícara de café.
+8. Beba o café.
+9. Pegue suas coisas (chaves, celular).
+10. Saia de casa.
+11. Vá trabalhar.
+
+Fim

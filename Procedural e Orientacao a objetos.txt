@@ -1,0 +1,10 @@
+Programação Procedural:
+
+Na programação procedural, o foco está na execução sequencial de tarefas e na organização do código em funções ou procedimentos. Estas funções representam um conjunto de instruções que são executadas quando cahmadas.
+
+
+Programação Orientada a Objetos:
+
+A programação orientada a objetos é um paradigma de programação que usa "objetos" – que podem conter tanto dados, na forma de campos (frequentemente conhecidos como atributos), quanto código, na forma de procedimentos (frequentemente conhecidos como métodos) – para projetar aplicações e programas de computador.
+
+Enquanto a programação procedural pode ser visualizada como uma sequência linear de ações, a programação orientada a objetos envolve pensar em termos de objetos que possuem tanto comportamentos quanto características.
